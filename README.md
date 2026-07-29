@@ -54,6 +54,7 @@ LabVIEW Projects
 ## About Me
 
 I am a Bachelor of Science in Electronics Engineering student at ECPI University with interests in industrial automation, instrumentation, electronics, semiconductor manufacturing, and engineering problem-solving. My goal is to build a professional engineering portfolio that demonstrates both my technical abilities and continuous learning.
+
 ---
 - Labview 
 - Engineering 
