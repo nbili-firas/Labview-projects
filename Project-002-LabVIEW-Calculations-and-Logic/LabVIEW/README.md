@@ -52,6 +52,10 @@ Surface area:
 - Graphical programming
 - Data flow
 
+### Source File
+
+[Open Problem 1 VI](4.2%20Surface%20Area%20and%20Volume%20of%20a%20Sphere-Prob1.vi)
+
 ---
 
 # Problem 2 – Random Number Comparison
@@ -92,6 +96,10 @@ A Boolean LED indicates the result of the comparison.
 - Boolean indicators
 - Data flow
 - Highlight Execution
+
+### Source File
+
+[Open Problem 2 VI](4.2%20Surface%20Area%20and%20Volume%20of%20a%20Sphere-Prob2.vi)
 
 ---
 
@@ -134,25 +142,29 @@ This VI calculates the maximum and minimum resistance values for a specified res
 - Graphical programming
 - Engineering calculations
 
+### Source File
+
+[Open Problem 3 VI](4.2%20Surface%20Area%20and%20Volume%20of%20a%20Sphere-Prob3.vi)
+
 ---
 
 # Development Process
 
 The LabVIEW source files were developed by following a structured process:
 
-1. Review the laboratory requirements.
-2. Identify the required inputs.
-3. Identify the required outputs.
-4. Build the Front Panel.
-5. Add and label controls.
-6. Add and label indicators.
-7. Build the Block Diagram.
-8. Add mathematical or logical functions.
-9. Connect the data flow.
-10. Run the VI.
-11. Check the results.
-12. Troubleshoot any issues.
-13. Verify the completed VI.
+1. **Review the laboratory requirements.**
+2. **Identify the required inputs.**
+3. **Identify the required outputs.**
+4. **Build the Front Panel.**
+5. **Add and label controls.**
+6. **Add and label indicators.**
+7. **Build the Block Diagram.**
+8. **Add mathematical or logical functions.**
+9. **Connect the data flow.**
+10. **Run the VI.**
+11. **Check the results.**
+12. **Troubleshoot any issues.**
+13. **Verify the completed VI.**
 
 ---
 
