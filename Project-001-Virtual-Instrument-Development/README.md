@@ -16,16 +16,16 @@ The lab also required properly labeled controls and indicators, organized Front 
 
 ## Objectives
 
-- Develop three Virtual Instruments using LabVIEW.
-- Practice fundamental graphical programming techniques.
-- Perform numerical calculations.
-- Calculate the sum and average of four inputs.
-- Convert Celsius temperature to Fahrenheit.
-- Implement an algebraic calculation using three inputs.
-- Apply conditional Boolean logic.
-- Turn an LED ON when the calculated value of X is less than zero.
-- Use a While Loop for programmatic control.
-- Maintain neat and properly labeled Front Panels and Block Diagrams.
+- Develop three Virtual Instruments using LabVIEW
+- Practice fundamental graphical programming techniques
+- Perform numerical calculations
+- Calculate the sum and average of four inputs
+- Convert Celsius temperature to Fahrenheit
+- Implement an algebraic calculation using three inputs
+- Apply conditional Boolean logic
+- Turn an LED ON when the calculated value of X is less than zero
+- Use a While Loop for programmatic control
+- Maintain neat and properly labeled Front Panels and Block Diagrams
 
 ---
 
@@ -35,7 +35,7 @@ The lab also required properly labeled controls and indicators, organized Front 
 
 ---
 
-# VI 1 – Sum and Average
+## VI 1 – Sum and Average
 
 The first VI accepts four numeric inputs and calculates the sum and average of all four values.
 
@@ -55,7 +55,7 @@ The first VI accepts four numeric inputs and calculates the sum and average of a
 
 ---
 
-# VI 2 – Celsius to Fahrenheit Conversion
+## VI 2 – Celsius to Fahrenheit Conversion
 
 The second VI converts a temperature from degrees Celsius to degrees Fahrenheit.
 
@@ -77,7 +77,7 @@ Where:
 
 ---
 
-# VI 3 – Algebraic Calculation and Conditional LED
+## VI 3 – Algebraic Calculation and Conditional LED
 
 The third VI performs the following algebraic calculation:
 
@@ -98,6 +98,7 @@ The VI also includes a conditional Boolean element. The LED turns **ON when X is
 
 ### Logic
 
+```text
 Calculate X
      |
      v
@@ -107,6 +108,7 @@ Is X < 0?
   |      |
   v      v
 LED ON  LED OFF
+
 Program Control
 
 The lab required the use of a While Loop to stop the VI programmatically.
@@ -195,5 +197,3 @@ The project also reinforced the importance of properly labeled controls and indi
 Reference
 
 Essentials of Building Virtual Instruments with LabVIEW and Arduino for Lab Automation Applications.
-
-Reference
