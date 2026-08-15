@@ -1,4 +1,4 @@
-# Project 002 – LabVIEW Calculations and Logic
+# Project 002 – LabVIEW Calculations and Logic 
 
 ## Project Overview
 
