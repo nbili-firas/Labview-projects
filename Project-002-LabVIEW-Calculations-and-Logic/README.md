@@ -361,7 +361,9 @@ The three Virtual Instruments were developed to perform their assigned functions
 
 ## Lab Report
 
-The complete laboratory report is included in this project repository.
+The complete laboratory report for Project 002 is available below.
+
+[View Project 002 Lab Report](Lab-Report.pdf)
 
 ## LabVIEW Source Files
 
