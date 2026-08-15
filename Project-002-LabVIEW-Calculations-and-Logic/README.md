@@ -101,7 +101,7 @@ The radius is also used to calculate the surface area:
 Two numeric indicators were added to the Front Panel:
 
 - **Volume**
-- **Surface**
+- **Surface Area**
 
 The resulting values are displayed to the user.
 
@@ -109,9 +109,15 @@ The resulting values are displayed to the user.
 
 ## Problem 1 – Result
 
-The completed VI successfully calculates the surface area and volume of a sphere from a user-provided diameter.
+The completed VI calculates the surface area and volume of a sphere from a user-provided diameter.
 
-![Problem 1 – Sphere Surface Area and Volume](../Screenshots/Screenshot%202026-08-15%20123927.png)
+### LabVIEW Source File
+
+[Open Problem 1 LabVIEW VI](LabVIEW/4.2%20Surface%20Area%20and%20Volume%20of%20a%20Sphere-Prob1.vi)
+
+### Screenshot
+
+![Problem 1 – Sphere Surface Area and Volume](Screenshots/Screenshot%202026-08-15%20123927.png)
 
 ---
 
@@ -190,9 +196,15 @@ The Block Diagram was also observed using **Highlight Execution** to watch the f
 
 ## Problem 2 – Result
 
-The completed VI successfully generates two random numbers, displays the values on meters, compares the values, and uses a Boolean indicator to show the comparison result.
+The completed VI generates two random numbers, displays the values on meters, compares the values, and uses a Boolean indicator to show the comparison result.
 
-![Problem 2 – Random Number Comparison](../Screenshots/Screenshot%202026-08-15%20123941.png)
+### LabVIEW Source File
+
+[Open Problem 2 LabVIEW VI](LabVIEW/4.2%20Surface%20Area%20and%20Volume%20of%20a%20Sphere-Prob2.vi)
+
+### Screenshot
+
+![Problem 2 – Random Number Comparison](Screenshots/Screenshot%202026-08-15%20123941.png)
 
 ---
 
@@ -227,9 +239,9 @@ A second numeric control was created for the tolerance percentage and labeled:
 
 **Tolerance in %**
 
-### Step 3 – Convert the Tolerance
+### Step 3 – Process the Tolerance
 
-The tolerance percentage is converted into its corresponding decimal value for use in the calculation.
+The tolerance percentage is used as part of the resistance calculations.
 
 ### Step 4 – Calculate the Maximum Resistance
 
@@ -261,7 +273,13 @@ The VI was tested using resistance and tolerance values to verify the calculated
 
 The completed VI calculates and displays the maximum and minimum resistance values based on the specified resistance and tolerance.
 
-![Problem 3 – Resistor Tolerance](../Screenshots/Screenshot%202026-08-15%20124002.png)
+### LabVIEW Source File
+
+[Open Problem 3 LabVIEW VI](LabVIEW/4.2%20Surface%20Area%20and%20Volume%20of%20a%20Sphere-Prob3.vi)
+
+### Screenshot
+
+![Problem 3 – Resistor Tolerance Calculation](Screenshots/Screenshot%202026-08-15%20124002.png)
 
 ---
 
@@ -287,18 +305,14 @@ This process provided practical experience moving from a written engineering req
 
 # Project Results
 
-The three Virtual Instruments were successfully developed to perform their assigned functions.
+The three Virtual Instruments were developed to perform their assigned functions.
 
 ### Problem 1
 
-Calculated:
-
-- Sphere volume
-- Sphere surface area
+- Sphere volume calculation
+- Sphere surface area calculation
 
 ### Problem 2
-
-Implemented:
 
 - Random Number 1 generation
 - Random Number 2 generation
@@ -308,10 +322,8 @@ Implemented:
 
 ### Problem 3
 
-Calculated:
-
-- Maximum resistance
-- Minimum resistance
+- Maximum resistance calculation
+- Minimum resistance calculation
 
 ---
 
@@ -353,15 +365,17 @@ The complete laboratory report is included in this project repository.
 
 ## LabVIEW Source Files
 
-The LabVIEW Virtual Instrument files are located in the `LabVIEW` folder:
+The three LabVIEW Virtual Instrument files are located in the `LabVIEW` folder:
 
-1. `4.2 Surface Area and Volume of a Sphere-Prob1.vi`
-2. `4.2 Surface Area and Volume of a Sphere-Prob2.vi`
-3. `4.2 Surface Area and Volume of a Sphere-Prob3.vi`
+1. [Problem 1 – Sphere Surface Area and Volume](LabVIEW/4.2%20Surface%20Area%20and%20Volume%20of%20a%20Sphere-Prob1.vi)
+2. [Problem 2 – Random Number Comparison](LabVIEW/4.2%20Surface%20Area%20and%20Volume%20of%20a%20Sphere-Prob2.vi)
+3. [Problem 3 – Resistor Tolerance Calculation](LabVIEW/4.2%20Surface%20Area%20and%20Volume%20of%20a%20Sphere-Prob3.vi)
 
 ## Screenshots
 
 The Front Panel and Block Diagram screenshots are located in the `Screenshots` folder.
+
+[View Project Screenshots](Screenshots/)
 
 ---
 
