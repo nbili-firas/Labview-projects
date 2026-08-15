@@ -18,7 +18,7 @@ The screenshots provide visual documentation of the three Virtual Instruments cr
 
 ### Description
 
-This screenshot shows the Front Panel and Block Diagram for the sphere surface area and volume Virtual Instrument.
+This screenshot documents the Front Panel and Block Diagram for the sphere surface area and volume Virtual Instrument.
 
 The VI accepts the sphere diameter as an input and calculates:
 
@@ -35,6 +35,10 @@ The Block Diagram uses mathematical operations to:
 4. Calculate the sphere surface area.
 5. Display the calculated values on the Front Panel.
 
+### Screenshot
+
+![Problem 1 – Sphere Surface Area and Volume](Screenshot%202026-08-15%20123927.png)
+
 ---
 
 # Screenshot 2 – Problem 2
@@ -47,7 +51,7 @@ The Block Diagram uses mathematical operations to:
 
 ### Description
 
-This screenshot shows the Front Panel and Block Diagram for the random number comparison Virtual Instrument.
+This screenshot documents the Front Panel and Block Diagram for the random number comparison Virtual Instrument.
 
 The VI:
 
@@ -58,6 +62,10 @@ The VI:
 5. Sends the comparison result to a Boolean indicator.
 
 The meters are configured with a maximum range of 1.
+
+### Screenshot
+
+![Problem 2 – Random Number Comparison](Screenshot%202026-08-15%20123941.png)
 
 ---
 
@@ -71,7 +79,7 @@ The meters are configured with a maximum range of 1.
 
 ### Description
 
-This screenshot shows the Front Panel and Block Diagram for the resistor tolerance Virtual Instrument.
+This screenshot documents the Front Panel and Block Diagram for the resistor tolerance Virtual Instrument.
 
 The VI:
 
@@ -80,6 +88,10 @@ The VI:
 3. Calculates the maximum resistance.
 4. Calculates the minimum resistance.
 5. Displays both calculated values on the Front Panel.
+
+### Screenshot
+
+![Problem 3 – Resistor Tolerance Calculation](Screenshot%202026-08-15%20124002.png)
 
 ---
 
