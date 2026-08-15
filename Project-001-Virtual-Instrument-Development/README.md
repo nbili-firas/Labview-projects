@@ -98,7 +98,6 @@ The VI also includes a conditional Boolean element. The LED turns **ON when X is
 
 ### Logic
 
-```text
 Calculate X
      |
      v
