@@ -1,4 +1,4 @@
-# Project 001 – LabVIEW Virtual Instrument Development
+# Project 001 – LabVIEW Virtual Instrument Development 
 
 ## Overview
 
