@@ -15,7 +15,7 @@ Each VI was developed using a Front Panel and Block Diagram and tested to verify
 
 ---
 
-## Project Requirements
+## Project Requirements   
 
 The laboratory required the following development standards:
 
