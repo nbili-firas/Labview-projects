@@ -1,6 +1,6 @@
 # Project 003 – LabVIEW Programming and Logic
 
-## Project Overview
+## Project Overview 
 
 Project 003 consists of four Virtual Instruments (VIs) developed using National Instruments LabVIEW. The laboratory exercises focus on numerical calculations, conditional logic, integer detection, unit conversion, random number generation, Boolean indicators, and programmatic control.
 
