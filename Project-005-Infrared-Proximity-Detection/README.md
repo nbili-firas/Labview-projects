@@ -65,6 +65,10 @@ The measured voltage is then evaluated in LabVIEW to determine the detection sta
 
 # Multisim Circuit Simulation
 
+The Multisim simulation below shows the infrared transmitter/receiver circuit used to study the sensor response and voltage behavior.
+
+![Multisim Infrared Proximity Detection Circuit](Screenshots/Picture1.png) 
+
 ## Step 1 – Build the Infrared Transmitter and Receiver
 
 The first stage of the project was completed in Multisim.
