@@ -6,6 +6,45 @@ This folder contains screenshots documenting the LabVIEW portion of the infrared
 
 The screenshots demonstrate the Front Panel, Block Diagram, detection logic, and multiple operating conditions of the completed Virtual Instrument.
 
+# Screenshot 1 – Multisim Infrared Proximity Detection Circuit
+
+## File
+
+`Picture1.png`
+
+![Multisim Infrared Proximity Detection Circuit](Picture1.png)
+
+## Description
+
+This screenshot shows the Multisim circuit simulation used for the infrared proximity detection project.
+
+The circuit includes:
+
+- 5 V power sources
+- 330 Ω resistors
+- Switch S1
+- Photodiode
+- Phototransistor
+- LED indicator
+- Digital multimeters
+
+The left side of the circuit represents the optical transmitter portion, while the right side represents the receiver portion using the phototransistor.
+
+The digital multimeters were used to observe voltage behavior in the simulated receiver circuit under different sensing conditions.
+
+### Development Process
+
+1. Build the transmitter-side circuit.
+2. Add the photodiode and switching element.
+3. Build the phototransistor receiver circuit.
+4. Add the LED status indicator.
+5. Connect the 5 V supply sources.
+6. Add digital multimeters for voltage measurement.
+7. Run the Multisim simulation.
+8. Change the optical/switching condition.
+9. Observe the resulting voltage values.
+10. Use the measured behavior to support the LabVIEW detection logic.
+
 ---
 
 # Screenshot 1 – Front Panel Design
@@ -164,7 +203,8 @@ A **Time Delay** is also included to control the loop execution rate.
 
 | Screenshot | Demonstration |
 |---|---|
-| `Picture2.png` | Front Panel design |
+| `Picture1.png` | Multisim infrared transmitter/receiver circuit and voltage measurement |
+| `Picture2.png` | LabVIEW Front Panel design |
 | `Picture3.png` | Object Detected state |
 | `Picture4.png` | Object Not Detected state |
 | `Picture5.png` | Additional non-detection test |
