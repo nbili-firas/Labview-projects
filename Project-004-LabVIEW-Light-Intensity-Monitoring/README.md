@@ -1,6 +1,6 @@
 # Project 004 – LabVIEW Light Intensity Monitoring Using a Photocell
 
-## Project Overview
+## Project Overview      
 
 This project focuses on the development of a LabVIEW Virtual Instrument (VI) used to monitor and analyze light intensity.
 
