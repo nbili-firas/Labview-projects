@@ -2,9 +2,11 @@
 
 ## Overview
 
-This folder contains screenshots documenting the LabVIEW portion of the infrared proximity detection project.
+This folder contains screenshots documenting the Multisim and LabVIEW portion of the infrared proximity detection project.
 
-The screenshots demonstrate the Front Panel, Block Diagram, detection logic, and multiple operating conditions of the completed Virtual Instrument.
+The screenshots demonstrate the Multisim, Front Panel, Block Diagram, detection logic, and multiple operating conditions of the completed Virtual Instrument.
+
+## Multisim Screenshots
 
 # Screenshot 1 – Multisim Infrared Proximity Detection Circuit
 
@@ -46,6 +48,8 @@ The digital multimeters were used to observe voltage behavior in the simulated r
 10. Use the measured behavior to support the LabVIEW detection logic.
 
 ---
+
+## LabVIEW Screenshots
 
 # Screenshot 1 – Front Panel Design
 
