@@ -40,8 +40,10 @@ The projects included here cover a variety of engineering concepts, including:
 LabVIEW Projects
 │
 ├── Project 001 - Virtual Instrument Development
-├── Project 002 - (Coming Soon)
-├── Project 003 - (Coming Soon)
+├── Project 002 - Calculations and Logic
+├── Project 003 - Programming and Logic
+├── Project 004 - Light Intensity Monitoring
+├── Project 005 - Programming and Logic
 ```
 
 ## Current Projects
@@ -49,6 +51,10 @@ LabVIEW Projects
 | Project | Status |
 |---------|--------|
 | Project 001 – Virtual Instrument Development | ✅ Complete |
+| Project 002 – Calculations and Logic | ✅ Complete |
+| Project 003 – Programming and Logic | ✅ Complete |
+| Project 004 – Light Intensity Monitoring | ✅ Complete |
+| Project 005 – Programming and Logic | ✅ Complete |
 | Additional Projects | 🚧 Coming Soon |
 
 ## About Me
